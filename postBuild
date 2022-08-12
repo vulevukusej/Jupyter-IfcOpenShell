@@ -1,0 +1,4 @@
+jupyter labextension install jupyter-threejs
+jupyter labextension install jupyter-datawidgets
+jupyter labextension install ipycanvas
+jupyter serverextension enable nbgitpuller --sys-prefix

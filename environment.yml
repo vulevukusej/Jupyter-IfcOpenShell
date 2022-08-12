@@ -1,0 +1,45 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+- jupyterlab=3.1
+- jupyter-offlinenotebook=0.2
+- nodejs=12
+- nbconvert=6
+# RTC
+- jupyterlab-link-share=0.2
+# Python Kernel
+- ipykernel=5.1
+- xeus-python=0.9
+- ipywidgets=7.6
+- widgetsnbextension=3.5
+- ipyleaflet=0.13
+- pythonocc-core
+- pythreejs
+- ifcopenshell
+- python-graphviz
+- shapely
+- ipycanvas
+- lxml
+- sidecar
+- ipycytoscape
+- networkx
+- nbgitpuller
+- altair=4.1
+- bqplot=0.12.20
+- dask=2020.12
+- matplotlib=3.1
+- pandas=1
+- python=3.7
+- scikit-image=0.15
+- scikit-learn=0.21
+- seaborn=0.11
+- tensorflow=1.13
+- sympy=1.4
+- pyyaml
+- traittypes==0.2.1
+- invoke=1.2
+- rdflib
+- sparqlwrapper
+- python-graphviz
+- pydotplus
